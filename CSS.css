@@ -1,0 +1,99 @@
+.PPre{
+    background:rgba(245, 222, 179, 0.597);
+    padding: 10px; margin: 10px; border: solid 10px rgb(236, 173, 54) ;
+
+}
+.H{
+    background:rgba(245, 222, 179, 0.597);
+    padding: 10px; margin: 10px; border: solid 10px rgb(236, 173, 54) ;
+}
+.class
+{
+    background:rgba(245, 222, 179, 0.597);
+    padding: 10px; margin: 10px; border: solid 10px rgb(236, 173, 54) ;
+}
+#id{
+    color: red;
+}
+.style
+{
+    background:rgba(245, 222, 179, 0.597);
+    padding: 10px; margin: 10px; border: solid 10px rgb(236, 173, 54) ;
+}
+.tags
+{
+    background:rgba(245, 222, 179, 0.597);
+    padding: 10px; margin: 10px; border: solid 10px rgb(236, 173, 54) ;
+}
+.list
+{
+    background:rgba(245, 222, 179, 0.597);
+    padding: 10px; margin: 10px; border: solid 10px rgb(236, 173, 54) ;
+}
+.img
+{
+    background:rgba(245, 222, 179, 0.597);
+    padding: 20px; margin: 10px; border: solid 10px rgb(236, 173, 54) ;
+    
+}
+.link
+{
+    background:rgba(245, 222, 179, 0.597);
+    padding: 10px; margin: 10px; border: solid 10px rgb(236, 173, 54) ;
+    
+}
+.table
+{
+      background:rgba(245, 222, 179, 0.597);
+    padding: 10px; margin: 10px; border: solid 10px rgb(236, 173, 54) ;
+    
+}
+table,tr,td,th{
+    border: solid blue 3PX;
+    border-collapse: collapse;
+
+    border: solid blue 3PX;
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+.border
+{
+    background:rgba(245, 222, 179, 0.597);
+    padding: 50px; margin: 10px; border: solid 10px rgb(236, 173, 54) ;
+    
+    border-bottom: inset 10px red;
+    border-top:  groove 15px  violet;
+    border-left: dotted 20px gold ;
+    border-right: dashed 10px black  ;
+
+}
+span{
+    background:rgba(245, 222, 179, 0.597);
+    padding: 10px; margin: 10px; border: solid 10px rgb(236, 173, 54) ;
+    
+}
+.button
+{
+    background:rgba(245, 222, 179, 0.597);
+    padding: 10px; margin: 10px; border: solid 10px rgb(236, 173, 54) ;
+    
+}
+.input
+{
+    background:rgba(245, 222, 179, 0.597);
+    padding: 10px; margin: 10px; border: solid 10px rgb(236, 173, 54) ;
+    
+}
+.radio
+{
+    background:rgba(245, 222, 179, 0.597);
+    padding: 10px; margin: 10px; border: solid 10px rgb(236, 173, 54) ;
+    
+}
+.checkbox
+{
+    background:rgba(245, 222, 179, 0.597);
+    padding: 10px; margin: 10px; border: solid 10px rgb(236, 173, 54) ;
+    
+
+}
