@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="refresh" content="20">
+    <title>ASPU</title>
+    <link rel="icon" type="/image/x-icon" href="ÇUKUR PHOTO SALEH.jpg">
+    <link rel="stylesheet" href="CSS.css">
+</head>
+<body>
+
+<!-- 1 --> 
+
+<div class="PPre">
+    <p> Hello world</p> <br>
+    <pre> password     1 2 3 4 5   </pre>
+</div>
+ 
+<!-- 2 -->
+
+<div class="H">
+    <h1>Hello world</h1>
+    <h2>Hello world</h2>
+    <h3>Hello world</h3>
+    <h4>Hello world</h4>
+    <h5>Hello world</h5>
+    <h6>Hello world</h6>
+</div>
+
+<!-- 3 -->
+
+<div  title="صباح الخير" class="class">
+    <p> Information Technology </p>
+    <p id="id"> Information Technology</p>
+    <p align="center">Information Technology</p>
+</div>
+
+<!-- 4  -->
+
+<div class="style">
+
+ <p style="color: blue; text-align: center;"> I am tired .</p>
+ <p style="background-color: rgb(0, 255, 94);"> I need sleepping .</p>
+
+</div>
+
+<!-- 5 -->
+
+<div class="tags">
+  <b> ASPU</b> <br><br>
+  <strong>hi LOL </strong><br><br>
+
+
+  <i>I am engineer</i><br><br>
+  
+  
+  <mark> I am stupid because I entered information engineering!!</mark><br><br>
+  
+  
+  <small> I am stupid because I entered information engineering!!</small><br><br>
+  <big>I am stupid because I entered information engineering!!</big>
+  
+  <p> sale 50% <del> 2000 </del></p>
+  
+  
+  <ins> I am smart</ins><br><br>
+
+
+  <p> H<sub style="color: RED;">2</sub>O</p>
+
+
+  <p>X<sup style="color: red;">2</sup>=25</p>
+
+</div>
+
+<!-- 6 -->
+
+<div class="list">
+<ul id="ul">
+    <p>unorder list :</p>
+     <li> Item  </li>
+     <li> Item </li>
+     <li> Item </li>
+</ul><hr>
+<ol>
+    <p>order list :</p>
+
+    <li>First item</li>
+    <li>Second item</li>
+    <li>Third item</li>
+</ol><hr>
+<dl>
+   <dt>Apple</dt>
+      <dd>this is red </dd>
+      <dd>this is Yellow</dd>
+</dl>
+
+</div>
+
+<!-- 7 -->
+
+<div class="img">
+
+    <img src="photo ÇUKUR.jpg" alt=" this is ÇUKUR " width="300px" height="300px" style="border-radius: 100px;">
+    
+    <img src="C:\Users\Dell\Desktop\obida.jpg"  width="300px" height="300px"  style="border-radius: 150px; float: right;">'
+
+    <hr><br>
+
+    <img src="photo.jpg" alt="this is University">
+    
+    <br><br> <hr><br>
+
+    <img src="map img.png"  width="1000px"> <br><br><br>
+    <img src="map img2 .png"  width="1000px">
+
+
+</div>
+
+<!-- 8 -->
+
+<div class="link">
+    <a href="ÇUKUR PHOTO SALEH.jpg"> Vartoloo </a>
+</div>
+
+<!-- 9 -->
+
+<div class="table">
+  <table>
+   <tr>
+    <th> name</th>
+    <th> age</th>
+    <th> number</th>
+   </tr>
+   <tr>
+    <td>ahmad</td>
+    <td>20</td>
+    <td>1</td>
+   </tr>
+   <tr>
+    <td>Nour</td>
+    <td>25</td>
+    <td>2</td>
+   </tr>
+  </table>
+
+
+
+</div>
+
+<!-- 10 -->
+<div class="border">
+
+<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequatur sequi expedita exercitationem minima sint delectus, officia asperiores dignissimos recusandae nam mollitia porro error omnis ipsa harum sunt itaque obcaecati doloribus.</p>
+
+</div><br><br>
+
+<!-- 11 -->
+
+<span>
+ Laborum, magni aut! Quaerat error maiores sit amet possimus libero dolor expedita!
+</span>
+<br><br>
+
+<!-- 12 -->
+<div class="button">
+
+ 
+    <button type="submit"> click here </button>
+ 
+    <br><br><br>
+
+    <button type="reset"> reset </button>
+
+
+
+</div>
+
+<!-- 13 -->
+
+<div class="input">
+<form target="_blank">
+<label for="name"> N a m e  :   </label>
+<input type="text" id="name" name="name" required><br><br>
+
+<label for="number">Number :</label>
+<input type="text" id="number" name="number" required><br><br>
+
+<label for="password">Password:</label>
+<input type="password" id="password" name="password" required><br><br>
+
+<input type="submit" value="click">
+
+
+
+
+
+
+
+
+
+</form>
+
+</div>
+
+<!-- 14 -->
+
+<div class="radio">
+<h2>Ridio Buttons</h2>
+<p>Choose your favorite Web  language :</p>
+<form >
+ <input type="radio" id="HTML" name="fav-language" value="HTML">
+ <label for="HTML">HTML</label><br>
+ 
+ <input type="radio" id="CSS" name="fav-language" value="CSS">
+ <label for="CSS">CSS</label><br>
+ 
+ <input type="radio" id="JAVA" name="fav-language" value="JAVA">
+ <label for="JAVA">JAVA</label>
+
+ <input type="submit" value="click">
+</form>
+
+
+
+</div>
+
+<!-- 15 -->
+
+<div class="checkbox">
+    <h2>Cheakbox Buttons</h2>
+    
+    <p>Choose your favorite sports :</p>
+
+<form >
+    <input type="checkbox" name="sport1" id="sport1" value="football">
+    <label for="sport1">football</label><br>
+
+    <input type="checkbox" name="sport2" id="sport2" value="basketball">
+    <label for="sport2">basketball</label><br>
+
+    <input type="checkbox" name="sport3" id="sport3" value="volleyball">
+    <label for="sport3">volleyball</label>
+
+
+    <input type="submit" value="click">
+
+</form>
+
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
